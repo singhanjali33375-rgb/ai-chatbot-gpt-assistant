@@ -59,3 +59,47 @@ ai-chatbot-gpt-assistant/
 ├── .env.example
 ├── README.md
 └── architecture.md
+# 🤖 AI Chatbot – Build Your Own GPT Assistant
+
+## 📌 Overview
+This project demonstrates the design and architecture of a custom
+GPT-like AI chatbot. It focuses on understanding AI workflows,
+prompt handling, and full-stack integration.
+
+## 🎯 Objectives
+- Learn how AI chatbots work
+- Understand prompt engineering
+- Design scalable AI architecture
+- Integrate frontend and backend
+
+## 🛠 Tech Stack
+Frontend: HTML, CSS, JavaScript  
+Backend: Python (Flask)  
+AI: OpenAI API (conceptual)  
+DevOps: GitHub Actions, YAML  
+
+## 📂 Project Structure
+frontend/ – User Interface  
+backend/ – AI logic & APIs  
+prompts/ – System instructions  
+.github/ – CI workflow  
+
+## 🗺 Roadmap
+Phase 1: Requirement analysis  
+Phase 2: UI design  
+Phase 3: Backend setup  
+Phase 4: AI prompt handling  
+Phase 5: CI integration  
+Phase 6: Documentation  
+
+## ⚠ Limitations
+- Demo-level project
+- No real API billing used
+
+## 🚀 Future Enhancements
+- Real AI API integration
+- User authentication
+- Cloud deployment
+
+## 👩‍💻 Author
+Anjali Singh
